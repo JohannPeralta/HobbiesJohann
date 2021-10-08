@@ -20,6 +20,4 @@
 ![Captura4] (https://cdn.discordapp.com/attachments/844259721782362143/895893213880143872/Captura4.JPG)
 
 
-https://markdown-here.com/img/icon256.png
-
 
