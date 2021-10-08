@@ -14,10 +14,10 @@
 
 ## Capturas de la página:
 
-![Captura1] (https://cdn.discordapp.com/attachments/844259721782362143/895893202207399936/Captura1.JPG)
-![Captura2] (https://cdn.discordapp.com/attachments/844259721782362143/895893205416030228/Captura2.JPG)
-![Captura3] (https://cdn.discordapp.com/attachments/844259721782362143/895893209652293652/Captura3.JPG)
-![Captura4] (https://cdn.discordapp.com/attachments/844259721782362143/895893213880143872/Captura4.JPG)
+https://cdn.discordapp.com/attachments/844259721782362143/895893202207399936/Captura1.JPG
+https://cdn.discordapp.com/attachments/844259721782362143/895893205416030228/Captura2.JPG
+https://cdn.discordapp.com/attachments/844259721782362143/895893209652293652/Captura3.JPG
+https://cdn.discordapp.com/attachments/844259721782362143/895893213880143872/Captura4.JPG
 
 
 
